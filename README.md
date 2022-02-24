@@ -8,3 +8,4 @@ https://infograficos.estadao.com.br/cidades/criminalidade-bairro-a-bairro/
 The data that will be used to create such report is available from the State Government website about Criminal Statistics, and it may be found here:
 
 https://www.ssp.sp.gov.br/Estatistica/Mapas.aspx
+#
